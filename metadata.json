@@ -1,0 +1,7 @@
+{
+  "name": "QuickPassport India - Pro AI Photo Studio",
+  "description": "Professional AI-powered tool for creating Indian standard passport, visa, and ID photos. Features automatic background removal, precise cropping, and A4 print sheet generation with 30 slots.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
